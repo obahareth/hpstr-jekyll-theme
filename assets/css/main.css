@@ -205,15 +205,15 @@ body {
 }
 
 ::-moz-selection {
-  color: #a5a5a5;
+  color: #ffffff;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: #aaaaaa;
 }
 
 ::selection {
-  color: #a5a5a5;
+  color: #ffffff;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: #aaaaaa;
 }
 
 .wrap {
